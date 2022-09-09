@@ -1,7 +1,7 @@
 <template>
   <div>
     <NavBar/>
-    <h1>HEY I'M HERE!!!</h1>
+    <h1>HEY I'M HERE2!!!</h1>
   </div>
 </template>
 
